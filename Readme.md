@@ -5,7 +5,7 @@ Installation des services AD.
 Création de la forêt, du domaine, et configuration du mot de passe DSRM.
 
 Script2 :
-Lecture du CSV contenant les utilisateurs et leurs groupes. /!\ Par défaut le chemin d'accès du CSV est D:/  /!\
+Lecture du CSV contenant les utilisateurs et leurs groupes. /!\ Par défaut le chemin d'accès du CSV est D:  /!\
 Création automatique des unités organisationnelles si elles n’existent pas.
 Détection dynamique des colonnes dans le CSV : le script s’adapte à n’importe quelle structure compatible.
 Création des groupes listés dans le CSV, sans doublon.
